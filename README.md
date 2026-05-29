@@ -40,7 +40,7 @@
 ## 安裝
 
 ```bash
-git clone https://github.com/topcat-tc/dotnet-vue-fullstack-skill.git
+git clone https://github.com/CunXXX/dotnet-vue-fullstack-skill.git
 cd dotnet-vue-fullstack-skill
 bash install.sh
 ```
@@ -48,7 +48,7 @@ bash install.sh
 或使用 npx skills：
 
 ```bash
-npx skills add topcat-tc/dotnet-vue-fullstack-skill -g
+npx skills add CunXXX/dotnet-vue-fullstack-skill -g
 ```
 
 ## 觸發方式
